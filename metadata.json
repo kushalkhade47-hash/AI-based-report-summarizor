@@ -1,0 +1,6 @@
+{
+  "name": "MedClarify: Intelligent Medical Dashboard & Care Plan",
+  "description": "Comprehensive health dashboard featuring AI-driven report analysis, 3D anatomy mapping, predictive risk analytics, and personalized diet and exercise care plans.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
